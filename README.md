@@ -1,7 +1,11 @@
 ### 👋 Hi my name is [Nathan Foss](https://www.linkedin.com/in/nathan-foss/)
 I'm a current Software Engineering student attending Flatiron School immersive bootcamp!
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=DosLLamas&theme=dark)
+<div>
+  <a href="https://github.com/DosLlamas">
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=DosLLamas&theme=dracula" />
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DosLlamas&layout-compact&langs_count-16&theme=dracula" />
+</div>
 
 
 ### Projects
