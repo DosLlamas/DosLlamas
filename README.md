@@ -1,4 +1,4 @@
-### 👋 Hi my name is [Nathan Foss](https://www.linkedin.com/in/nathan-foss/))
+### 👋 Hi my name is [Nathan Foss](https://www.linkedin.com/in/nathan-foss/)
 I'm a current Software Engineering student attending Flatiron School immersive bootcamp!
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=DosLLamas&theme=dark)
