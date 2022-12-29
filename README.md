@@ -10,7 +10,7 @@ I'm a current Software Engineering student attending Flatiron School immersive b
 
 
 ### Certificates
-|Certificate|Issuer|About
+|Certificate|Issuer|Skills
 |-|-|-|
 |Software Engineering|Flatiron School Immersive-Bootcamp|<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 
