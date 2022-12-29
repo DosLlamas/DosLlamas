@@ -2,7 +2,7 @@
 I'm a current Software Engineering student attending Flatiron School immersive bootcamp!
 
 <div>
-  <a href="https://i.kym-cdn.com/entries/icons/original/000/023/397/C-658VsXoAo3ovC.jpg">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=DosLLamas&theme=radical" />
   <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DosLlamas&layout-compact&langs_count-16&theme=radical" />
 </div>
