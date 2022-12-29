@@ -2,9 +2,9 @@
 I'm a current Software Engineering student attending Flatiron School immersive bootcamp!
 
 <div>
-  <a href="https://github.com/DosLlamas">
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=DosLLamas&theme=dracula" />
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DosLlamas&layout-compact&langs_count-16&theme=dracula" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=DosLLamas&theme=tokyonight" />
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DosLlamas&layout-compact&langs_count-16&theme=tokyonight" />
 </div>
 
 
