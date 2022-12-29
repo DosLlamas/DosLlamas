@@ -7,8 +7,7 @@ I'm a current Software Engineering student attending Flatiron School immersive b
 ### Projects
 |Name|Description|Tooling|
 |-|-|-|
-|[NASA Image Search](https://lcardoz.github.io/Phase-1-Project/)|Space Image Generator using JavaScript, HTML/CSS and NASA’s API|![Moon_rotating_full_220px](https://user-images.githubusercontent.com/111101890/209899353-92fe1b86-5d01-4d33-affd-15d2f9c7457d.gif)
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>|
+|[NASA Image Search](https://lcardoz.github.io/Phase-1-Project/)|Space Image Generator using JavaScript, HTML/CSS and NASA’s API|<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>![Moon_rotating_full_220px](https://user-images.githubusercontent.com/111101890/209899353-92fe1b86-5d01-4d33-affd-15d2f9c7457d.gif)
 
 
 ### Certificates
