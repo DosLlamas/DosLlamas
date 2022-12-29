@@ -2,6 +2,8 @@
 I'm a current Software Engineering student attending Flatiron School immersive bootcamp!
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=DosLLamas&theme=dark)
+![Moon_rotating_full_220px](https://user-images.githubusercontent.com/111101890/209899353-92fe1b86-5d01-4d33-affd-15d2f9c7457d.gif)
+
 
 ### Projects
 |Name|Description|Tooling|
