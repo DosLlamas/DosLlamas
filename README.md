@@ -5,8 +5,8 @@ I'm a current Software Engineering student attending Flatiron School immersive b
 
 <div>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=DosLLamas&theme=radical" />
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DosLlamas&layout-compact&langs_count-16&theme=radical" />
+  <img height= "170em" src="https://github-readme-stats.vercel.app/api?username=DosLLamas&theme=radical" />
+  <img height= "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DosLlamas&layout-compact&langs_count-16&theme=radical" />
 </div>
 
 
