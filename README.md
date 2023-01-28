@@ -3,6 +3,7 @@
 ### 👋 Hi my name is [Nathan Foss](https://www.linkedin.com/in/nathan-foss/)
 I'm a current Software Engineering student attending Flatiron School immersive bootcamp!
 
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=DosLlamas&theme=radical)
 <!-- <div>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img height= "170em" src="https://github-readme-stats.vercel.app/api?username=DosLlamas" />
