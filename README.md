@@ -11,7 +11,7 @@ I'm a current Software Engineering student attending Flatiron School immersive b
 </div> -->
 
 
-### My Current Projects
+### What am I currently working on?
 |Name|Description|Tooling|
 |-|-|-|
 |[amber](https://chrome.google.com/webstore/detail/amber-mindfulness/hdfdgocligofefcgklikgpjadbphlipm)|Google Chrome Extension -- Promotes mindfulness, preventing doomscrolling for Youtube, Tik Tok, Twitter, Instagram, and Reddit|<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>![Mi_proyecto-removebg-preview](https://user-images.githubusercontent.com/111101890/209997181-cf1546bf-a410-486d-b397-516de3fdee37.png)
