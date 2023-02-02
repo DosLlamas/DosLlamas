@@ -8,7 +8,12 @@
     <img height= "170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DosLlamas&show_icons=true&locale=en&layout=compact&theme=radical" alt="DosLlamas" />
 <!--   <img height= "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DosLlamas&layout-compact&langs_count-16&theme=radical" /> -->
 </div>
-
+<details>
+<summary><h3>💻 My Coding Journey</h3></summary>
+<!--   I got into coding in 2020, when Discord released the verified bot developer badge. I was intrigued by the idea of creating my own custom bot for the platform, so I decided to give it a try. I had no prior experience in coding, but I thought I might as well give it a shot.
+<br>
+<br> -->
+</details>
 
 ### What am I currently working on?
 |Name|Description|Tooling|
