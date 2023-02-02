@@ -1,14 +1,13 @@
 ![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d393026636f6c6f723d6772616469656e74](https://user-images.githubusercontent.com/111101890/210936569-6ee1b947-a39b-46ac-a3cd-15aec071d8e8.svg)
 
 ### 👋 Hi my name is [Nathan Foss](https://www.linkedin.com/in/nathan-foss/)
-I'm a current Software Engineering student attending Flatiron School immersive bootcamp!
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=DosLlamas&theme=radical)
-<!-- <div>
+<div>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-  <img height= "170em" src="https://github-readme-stats.vercel.app/api?username=DosLlamas" />
-  <img height= "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DosLlamas&layout-compact&langs_count-16&theme=radical" />
-</div> -->
+      <img height= "200em" src="https://github-readme-stats.vercel.app/api?username=DosLlamas&theme=radical" />
+    <img height= "200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DosLlamas&show_icons=true&locale=en&layout=compact&theme=radical" alt="DosLlamas" />
+<!--   <img height= "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DosLlamas&layout-compact&langs_count-16&theme=radical" /> -->
+</div>
 
 
 ### What am I currently working on?
