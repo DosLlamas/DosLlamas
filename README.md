@@ -11,9 +11,11 @@
 </div>
 <details>
 <summary><h3>💻 My Coding Journey</h3></summary>
-<!--   I got into coding in 2020, when Discord released the verified bot developer badge. I was intrigued by the idea of creating my own custom bot for the platform, so I decided to give it a try. I had no prior experience in coding, but I thought I might as well give it a shot.
+I got into coding in 2022. I'm currently studying part time for my Computer Science degree and I teach web development as an instructor at a non-profit, [Code2College](https://code2college.org/). I’m also a Software Engineer Intern, developing applications and curriculum at Coding for Hermit Crabs with React, Ruby on Rails and SQL. I speak English and Spanish.
+
+I actually love to learn languages–spoken language and coding. Before deciding to become a software engineer, I taught myself Spanish with books, videos and talking with friends and teaching Spanish, traveling to latin countries or just going out of my way to speak with someone in Spanish. With coding I took the same approach -- Self initiative. I now focus on building apps and making tech-related podcasts that impact us from negative to positive and I continue reading books, watching videos, talking with friends and traveling to Hackathons and events -- places where people like me live and thrive. Currently I have my eyes on Portuguese and Java as my next languages. Stay tuned.
 <br>
-<br> -->
+<br> 
 </details>
 
 ### What am I currently working on?
