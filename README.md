@@ -20,7 +20,7 @@ I actually love to learn languages –- spoken language and coding. Before decid
 With coding I took the same approach: Self initiative and Obsession. I now focus on building apps and making tech-related podcasts that impact others from negative to positive. I continue to read programming books, watch videos, talk with software engineer friends, teach, and travel to Hackathons or events -- places where people like me are. 
   
 
-There's someting mysterious about languages that I may keep searching for until I die. They constantly change as people change and update. You become aware of the pros and cons each language inherently has. They're what separates us from the animals -- Using tools to represent what we see, to solve problems and impact others for years and years in the future, constantly learning from the past.
+There's someting mysterious about languages that I may keep searching for until I die. They constantly change as people change and update. You become aware of the pros and cons each language inherently has. But one thing never changes, they reflect us as people becuase that's what they're about. They're what separates us from the animals -- Using tools to represent what we see, to solve problems and impact others for years and years in the future, constantly learning from the past.
   
 Currently I have my eyes on Portuguese and Java as my next languages. Stay tuned.
 <br>
