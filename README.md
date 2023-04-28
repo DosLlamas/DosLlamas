@@ -11,13 +11,16 @@
 </div>
 <details>
 <summary><h3>💻 My Coding Journey</h3></summary>
-I got into coding in 2022. I'm currently studying part time for my Computer Science degree and I teach web development as an instructor at a non-profit, Code2College. I’m also a Software Engineer Intern, developing applications and curriculum at Coding for Hermit Crabs with React, Ruby on Rails and SQL. I speak English and Spanish.
+I’m a Software Engineer with a passion for social impact and technology. I teach web development to highschoolers and teens at the non-profit Code2College so students can build websites for clients and create their own project portfolio. As a Software Engineer, I develop applications and curriculum at Coding for Hermit Crabs where we teach homeless youth to program. I mainly work with React, Ruby on Rails and SQL to develop web and phone apps. I am pursuing roles in Frontend, or Full Stack Software/Web Development. 
+  
+My contact: nathanfoss.dev@gmail.com
   
 
-I actually love to learn languages–spoken language and coding. Before deciding to become a software engineer, I taught myself Spanish with books, videos, talking with friends and teaching Spanish, traveling to latin countries or just going out of my way to speak with someone in Spanish. 
-With coding I took the same approach -- Self initiative and Obsession. I now focus on building apps and making tech-related podcasts that impact us from negative to positive and I continue reading books, watching videos, talking with friends, teaching and traveling to Hackathons and events -- places where people like me live and thrive. 
+I actually love to learn languages–spoken language and coding. Before deciding to become a software engineer, I taught myself Spanish with books, videos, talking with friends, teaching, traveling, or just going out of my way to speak with someone in Spanish. At first I didn't understand anything -- it felt so far away. But I kept going, stumbling and falling towards what I didn't know -- asking myself what I'm missing. But I would always get back up. Days, months and years past then suddenly I couldn't *not* understand everything even if I didn't want to. That's when I realized I was fluent. 
+With coding I took the same approach -- Self initiative and Obsession. I now focus on building apps and making tech-related podcasts that impact others from negative to positive. I continue to read programming books, watch videos, talk with software engineer friends, teach, and travel to Hackathons or events -- places where people like me are. 
+  
 
-There's someting to be said about using different tools to communicate the same ideas and get the same things done. The languages constantly change as people change and update. You become aware of the pros and cons each language inherently has and how using them affects your thinking. 
+There's someting mysterious about languages that I may keep searching for until I die. They constantly change as people change and update. You become aware of the pros and cons each language inherently has and how one may be better than another for certain situations. It's what separates us from the animals -- Using tools to represent what we see, to solve problems and impact others for years and years in the future, constantly learning from the past.
   
 Currently I have my eyes on Portuguese and Java as my next languages. Stay tuned.
 <br>
