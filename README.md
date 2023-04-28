@@ -39,3 +39,7 @@ Currently I have my eyes on Portuguese and Java as my next languages. Stay tuned
 ### Socials
 [<img height="50em" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/nathan-foss/)
 [<img height="50em" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/@nathanfoss.dev) 
+[<img height="50em" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>](https://open.spotify.com/show/2gqDtYz2JoZv4gBq3xAckx?si=dd1a32cc51e34811)
+  
+  
+ 
