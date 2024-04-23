@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
       <img height= "170em" src="https://github-readme-stats.vercel.app/api?username=DosLlamas&theme=radical" />
-    <img height= "170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DosLlamas&show_icons=true&locale=en&layout=compact&theme=radical" alt="DosLlamas" />
+<!--     <img height= "170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DosLlamas&show_icons=true&locale=en&layout=compact&theme=radical" alt="DosLlamas" /> -->
 <!--   <img height= "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DosLlamas&layout-compact&langs_count-16&theme=radical" /> -->
 </div>
 <details>
