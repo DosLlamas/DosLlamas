@@ -2,14 +2,15 @@
 ### [<h1 align="center">Nathan Foss</h1>](https://linktr.ee/whats_nate)
 
 <!-- ### 🤠 Hi my name is [Nathan Foss](https://www.linkedin.com/in/nathan-foss/) -->
-
+<!--
 <div align="center">
-<!--   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
       <img height= "170em" src="https://github-readme-stats.vercel.app/api?username=DosLlamas&theme=radical" />
     <img height= "170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DosLlamas&show_icons=true&locale=en&layout=compact&theme=radical" alt="DosLlamas" />
   <img height= "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DosLlamas&layout-compact&langs_count-16&theme=radical" />
-     -->
+    
 </div>
+-->
 <details>
 <summary><h3>💻 My Coding Journey</h3></summary>
 I’m a Software Engineer with a passion for social impact and technology. I teach web development to highschoolers and teens at the non-profit Code2College so students can build websites for clients and create their own project portfolio. As a Software Engineer, I develop applications and curriculum at Coding for Hermit Crabs where we teach homeless youth to program. I mainly work with React, Ruby on Rails and SQL to develop web and phone apps. I am pursuing roles in Frontend, or Full Stack Software/Web Development. 
