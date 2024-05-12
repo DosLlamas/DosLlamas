@@ -23,12 +23,9 @@ My contact: na912555@ucf.edu
 
 
 ### Socials
-[<a src="https://www.linkedin.com/in/nathan-foss/" target="_blank">
-<img height="50em" target="_blank" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/nathan-foss/)
-</a>
-[<a src="https://linktr.ee/whats_nate" target="_blank">
-<img height="50em" target="_blank" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/>](https://linktr.ee/whats_nate)
-</a>
+[<img height="50em" target="_blank" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/nathan-foss/)
+[<img height="50em" target="_blank" src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/>](https://linktr.ee/whats_nate)
+
   
   
  
