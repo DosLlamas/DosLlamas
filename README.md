@@ -5,8 +5,6 @@
 Computer Science student offering a strong foundation in programming principles and software engineering. Demonstrated history of producing high-quality project results; possesses an innate talent for quickly picking up technology and new concepts.
 
 I have always had an interest in making a social impact with technology, and this has led me into my career in Computer Science. I started out teaching the fundamentals of Python to high school students in preparation for their first internship where they focus on application, technical skills for the workplace, and developing their interview skills. This led me to collaborating with my professor and team at the University of Central Florida to create curriculums and grading criteria for several computer science classes and assignments.
-  
-My contact: na912555@ucf.edu
 
 <!--
 ### What am I currently working on?
